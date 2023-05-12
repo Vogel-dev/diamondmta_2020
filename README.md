@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/sMYD7XH.png">
+  <img src="https://i.imgur.com/KHeVall.png">
 </p>
 
 # DiamondMTA
