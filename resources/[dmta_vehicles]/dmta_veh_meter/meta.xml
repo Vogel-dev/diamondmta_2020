@@ -1,0 +1,22 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<file src="img/icons/I_brake.png"/>
+	<file src="img/icons/I_door.png"/>
+	<file src="img/icons/I_engine.png"/>
+	<file src="img/icons/I_light.png"/>
+	<file src="img/icons/I_petrol.png"/>
+
+	<file src="img/icons/I_brake_lighted.png"/>
+	<file src="img/icons/I_door_lighted.png"/>
+	<file src="img/icons/I_engine_lighted.png"/>
+	<file src="img/icons/I_light_lighted.png"/>
+	<file src="img/icons/I_petrol_lighted.png"/>
+
+	<file src="img/C_menu.png"/>
+	<file src="img/C_menu_lighted.png"/>
+	<file src="img/C_petrol_menu.png"/>
+	<file src="img/C_petrol_menu_bar.png"/>
+	<file src="img/S_pointer.png"/>
+	<file src="img/S_pointer_2.png"/>
+</meta>

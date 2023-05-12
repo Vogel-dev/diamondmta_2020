@@ -1,0 +1,6 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+    <script src="s.lua" type="server"/>
+
+    <file src="images/w-icon.png"/>
+</meta>

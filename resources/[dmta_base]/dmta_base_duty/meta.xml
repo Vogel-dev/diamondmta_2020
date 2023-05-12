@@ -1,0 +1,15 @@
+<meta>
+	<script src="slither.lua" type="shared" cache="false"/>
+
+	<script src="s_commands.lua" type="server"/>
+	<script src="c_logs.lua" type="client" cache="false"/>
+
+	<script src="s_admin.lua" type="server"/>
+	<script src="c_admin.lua" type="client" cache="false"/>
+
+	<export function="addLogs" type="server"/>
+	<export function="addLogsDuty" type="server"/>
+	<export function="addBanPlayer" type="server"/>
+
+	<file src="images/rectangle.png"/>
+</meta>

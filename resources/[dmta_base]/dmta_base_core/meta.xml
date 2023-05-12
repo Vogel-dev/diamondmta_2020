@@ -1,0 +1,17 @@
+<meta>
+    
+	<script src="s_core.lua" type="server"/>
+    
+	<script src="s_animation.lua" type="server"/>
+
+	<file src="sms.mp3" />
+
+	<export function="findPlayer" type="server"/>
+    
+	<export function="outputChatWithDistance" type="server"/>
+    
+	<export function="isPlayerHaveMute" type="server"/>
+
+	<export function="getElementsWithinDistance" type="server"/>
+
+</meta>

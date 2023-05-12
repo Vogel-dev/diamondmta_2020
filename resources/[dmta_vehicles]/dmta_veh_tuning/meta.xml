@@ -1,0 +1,12 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="cz.ttf"/>
+	<file src="cz2.ttf"/>
+<file src="gfx/arrow.png"/>
+<file src="gfx/bgzam.png"/>
+<file src="gfx/bgzdem.png"/>
+<file src="gfx/oknoczesc.png"/>
+<file src="gfx/oknokategoria.png"/>
+	<sync_map_element_data>false</sync_map_element_data>
+</meta>

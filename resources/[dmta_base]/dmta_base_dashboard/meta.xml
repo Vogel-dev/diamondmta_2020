@@ -1,0 +1,66 @@
+<meta>
+	
+	<script src="c.lua" type="client" cache="false"/>
+	
+	<script src="s.lua" type="server"/>
+
+
+	
+	<file src="images/off.png"/>
+	
+	<file src="images/on.png"/>
+	
+
+	<file src="images/window.png"/>
+	
+	<file src="images/car.png"/>
+	
+	<file src="images/house.png"/>
+	
+	<file src="images/mute.png"/>
+	
+	<file src="images/ban.png"/>
+	
+	<file src="images/prawko.png"/>
+
+	<file src="images/rectangle_window.png"/>
+	<file src="images/rectangle.png"/>
+	<file src="images/arrow.png"/>
+
+	<file src="images/icons/stats_normal.png"/>
+	<file src="images/icons/stats_hover.png"/>
+	<file src="images/icons/lists_normal.png"/>
+	<file src="images/icons/lists_hover.png"/>
+	<file src="images/icons/premium_normal.png"/>
+	<file src="images/icons/premium_hover.png"/>
+	<file src="images/icons/help_normal.png"/>
+	<file src="images/icons/help_hover.png"/>
+	<file src="images/icons/settings_normal.png"/>
+	<file src="images/icons/settings_hover.png"/>
+	<file src="images/icons/achievement_normal.png"/>
+	<file src="images/icons/achievement_hover.png"/>
+	<file src="images/icons/info_normal.png"/>
+	<file src="images/icons/info_hover.png"/>
+	<file src="images/icons/acsettings_normal.png"/>
+	<file src="images/icons/acsettings_hover.png"/>
+	<file src="images/icons/user_normal.png"/>
+	<file src="images/icons/user_hover.png"/>
+	<file src="images/icons/shader_normal.png"/>
+	<file src="images/icons/shader_hover.png"/>
+	<file src="images/icons/psell_normal.png"/>
+	<file src="images/icons/psell_hover.png"/>
+	<file src="images/icons/premiumb_normal.png"/>
+	<file src="images/icons/premiumb_hover.png"/>
+	<file src="images/icons/points_normal.png"/>
+	<file src="images/icons/points_hover.png"/>
+	<file src="images/icons/mandates_normal.png"/>
+	<file src="images/icons/mandates_hover.png"/>
+	<file src="images/icons/houses_normal.png"/>
+	<file src="images/icons/houses_hover.png"/>
+	<file src="images/icons/vehicles_normal.png"/>
+	<file src="images/icons/vehicles_hover.png"/>
+	<file src="images/icons/punish_normal.png"/>
+	<file src="images/icons/punish_hover.png"/>
+	<file src="images/icons/game_normal.png"/>
+	<file src="images/icons/game_hover.png"/>
+</meta>

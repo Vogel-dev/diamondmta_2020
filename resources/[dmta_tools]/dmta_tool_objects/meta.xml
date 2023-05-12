@@ -1,0 +1,12 @@
+<meta>
+	<script src="slither.lua" type="shared" cache="false"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server"/>
+
+	<file src="images/accept.png"/>
+	<file src="images/cancel.png"/>
+	<file src="images/attach.png"/>	
+	<file src="images/position.png"/>
+	<file src="images/rotation.png"/>
+	<file src="images/back.png"/>
+</meta>

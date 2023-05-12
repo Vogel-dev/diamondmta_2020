@@ -1,0 +1,7 @@
+<meta>
+    <script src="c_job.lua" type="client" cache="false"/>
+    <script src="s_job.lua" type="server"/>
+
+    <file src="images/siatka.png"/>
+    <file src="images/strzalka.png"/>
+</meta>

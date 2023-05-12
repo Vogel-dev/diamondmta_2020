@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_license.lua" type="client" cache="false"/>
+    <script src="s_license.lua" type="server"/>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<export function="triggerOpenGui" type="client"/>
+
+</meta>

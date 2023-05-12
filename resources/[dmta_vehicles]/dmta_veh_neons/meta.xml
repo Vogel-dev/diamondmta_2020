@@ -1,0 +1,20 @@
+<meta>
+	<script src="slither.lua" type="shared" cache="false"/>
+	<script src="s.lua" type="server"/>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<export function="createNeon" type="server"/>
+	<export function="destroyNeon" type="server"/>
+
+	<file src="replaces/blue.dff"/>
+	<file src="replaces/green.dff"/>
+	<file src="replaces/ice.dff"/>
+	<file src="replaces/lightblue.dff"/>
+	<file src="replaces/orange.dff"/>
+	<file src="replaces/pink.dff"/>
+	<file src="replaces/rasta.dff"/>
+	<file src="replaces/red.dff"/>
+	<file src="replaces/white.dff"/>
+	<file src="replaces/yellow.dff"/>
+	<file src="replaces/neonCollision.col"/>
+</meta>

@@ -1,0 +1,11 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+
+	<export function="dxCreateEdit" type="client"/>
+	<export function="dxDestroyEdit" type="client"/>
+	<export function="dxGetEditText" type="client"/>
+	<export function="dxSetEditText" type="client"/>
+	<export function="dxSetEditAlpha" type="client"/>
+	<export function="dxEditGetSelected" type="client"/>
+	<export function="dxSetEditPosition" type="client"/>
+</meta>

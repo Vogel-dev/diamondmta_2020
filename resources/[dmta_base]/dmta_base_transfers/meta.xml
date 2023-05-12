@@ -1,0 +1,7 @@
+<meta>
+    <script src="s.lua" type="server"/>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <file src="images/checkbox.png"/>
+    <file src="images/checkbox_selected.png"/>
+</meta>

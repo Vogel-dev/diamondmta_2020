@@ -1,0 +1,12 @@
+<meta>
+	<file src="img/scroll.png"/>
+	<file src="img/circle.png"/>
+
+	<script src="c.lua" type="client" cache="false"/>
+
+	<export function="dxCreateScroll" type="client"/>
+	<export function="dxDestroyScroll" type="client"/>
+	<export function="dxScrollGetPosition" type="client"/>
+	<export function="dxScrollUpdateTable" type="client"/>
+	<export function="dxScrollSetAlpha" type="client"/>
+</meta>

@@ -1,0 +1,14 @@
+<meta>
+	<script src="c_gui.lua" type="client" cache="false"/>
+	<script src="c_afk.lua" type="client" cache="false"/>
+	<script src="c_dm.lua" type="client" cache="false"/>
+	<script src="c_online.lua" type="client" cache="false"/>
+	<script src="c_food.lua" type="client" cache="false"/>
+
+	<file src="images/premium.png"/>
+	<file src="images/afk.png"/>
+	<file src="images/writing.png"/>
+	<file src="images/mute.png"/>
+
+	<min_mta_version client="1.5" />
+</meta>

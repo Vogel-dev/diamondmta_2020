@@ -1,0 +1,12 @@
+<meta>
+<script src="c.lua" type="client" cache="false"/>
+<script src="s.lua" type="server"/>
+<file src="sounds/WestBank-001.mp3"/>
+<file src="sounds/WestBank-002.mp3"/>
+<file src="sounds/WestBank-003.mp3"/>
+<file src="sounds/WestBank-004.mp3"/>
+<file src="sounds/WestBank-005.mp3"/>
+<file src="images/bankomat.png"/>
+<file src="images/placowka.png"/>
+<file src="images/bank.png"/>
+</meta>

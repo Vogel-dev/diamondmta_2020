@@ -1,0 +1,19 @@
+
+
+-- -- -- -- -- 30.11.2019 at 14:43, Creator: Vogel
+myCollision = createColCuboid(999.02319, -1348.7665, 13.351496, 14.5, 17, 2)
+
+-- -- -- -- -- 30.11.2019 at 22:33, Creator: Vogel
+myCollision = createColCuboid(1626.1766, -1109.7061, 23.90625, 7.5, 5.75, 2)
+
+-- -- -- -- -- 6.12.2019 at 22:29, Creator: Vogel
+myCollision = createColCuboid(1730.0543, -1767.9681, 13.492188, 15.25, 7.75, 2)
+
+-- -- -- -- -- 6.12.2019 at 23:14, Creator: Vogel
+myCollision = createColCuboid(1731.092, -1800.8917, 13.535382, 14.25, 7.75, 2)
+
+-- -- -- -- -- 6.12.2019 at 23:28, Creator: Vogel
+myCollision = createColCuboid(1730.1198, -1785.8661, 13.492188, 15.5, 8, 2)
+
+-- -- -- -- -- 23.12.2019 at 14:54, Creator: Vogel
+myCollision = createColCuboid(1083.1017, -1188.51, 18.795631, 27.25, 10, 2)

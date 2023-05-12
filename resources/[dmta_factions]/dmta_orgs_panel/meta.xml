@@ -1,0 +1,14 @@
+<meta>
+	
+<script src="s.lua" type="server" />
+	
+<script src="c.lua" type="client" cache="false" />
+
+<file src="window.png" />
+<file src="cz.ttf" />
+<file src="window-dodaj.png" />
+<file src="window-edytuj.png" />
+<file src="window-zaproszenie.png" />
+
+
+</meta>

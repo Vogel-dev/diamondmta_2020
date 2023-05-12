@@ -1,0 +1,12 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <export function="createCPicker" type="client"/>
+    <export function="destroyCPicker" type="client"/>
+    <export function="getCPickerSelectedColor" type="client"/>
+
+    <file src="images/cursor.png" />
+    <file src="images/h.png" />
+    <file src="images/sv.png" />
+    <file src="images/blank.png" />
+</meta>

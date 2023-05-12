@@ -1,0 +1,7 @@
+<meta>
+<script src="c.lua" type="client" cache="false"/>
+<script src="s.lua" type="server"/>
+<export function="createBlipAttachedVehicle" type="client"/>
+<export function="createBlipAttachedVehicle" type="server"/>
+<file src="images/target.png"/>
+</meta>

@@ -1,0 +1,30 @@
+<meta>
+    
+	<script src="c.lua" type="client" cache="false"/>
+
+    
+
+	<file src="images/clock.png"/>
+    
+	<file src="images/oxygen.png"/>
+    
+	<file src="images/armor.png"/>
+   
+	<file src="images/money.png"/>
+    
+	<file src="images/hp.png"/>
+    
+	<file src="images/food.png"/>
+    
+	<file src="images/drink.png"/>
+	
+	<file src="images/pasek.png"/>
+	<file src="images/background.png"/>
+	<file src="images/zapelnienie.png"/>
+
+    
+	<file src="fonts/italic.ttf"/>
+	<file src="fonts/bold.ttf"/>
+
+  
+</meta>

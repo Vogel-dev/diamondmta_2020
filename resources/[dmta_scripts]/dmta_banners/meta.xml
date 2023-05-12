@@ -1,0 +1,15 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <file src="shaders/shader.fx"/>
+
+    <file src="images/stacja_wjazd.png"/>
+    <file src="images/banner_diamondbank.png"/>
+    <file src="images/salon_sciana.png"/>
+    <file src="images/okno.png"/>
+    <file src="images/tablica_prawko_a.png"/>
+    <file src="images/tablica_prawko_b.png"/>
+    <file src="images/tablica_prawko_c.png"/>
+    <file src="images/tablica_prawko_d.png"/>
+    <file src="images/discord.png"/>
+</meta>

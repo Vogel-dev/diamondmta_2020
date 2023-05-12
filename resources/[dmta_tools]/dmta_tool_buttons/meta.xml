@@ -1,0 +1,10 @@
+<meta>
+  <script src="c.lua" type="client" cache="false"/>
+
+  <file src="img/circle.png"/>
+
+  <export function="createButton" type="client"/>
+  <export function="destroyButton" type="client"/>
+  <export function="setButtonAlpha" type="client"/>
+  <export function="setButtonPosition" type="client"/>
+</meta>

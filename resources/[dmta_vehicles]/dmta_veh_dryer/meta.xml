@@ -1,0 +1,7 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+    <script src="s.lua" type="server"/>
+
+    <file src="models/suszarka.txd"/>
+    <file src="models/suszarka.dff"/>
+</meta>

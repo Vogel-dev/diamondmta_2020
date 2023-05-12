@@ -1,0 +1,7 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+    <script src="s.lua" type="server"/>
+
+    <export function="alphaDown" type="server"/>
+    <export function="alphaDown" type="client"/>
+</meta>

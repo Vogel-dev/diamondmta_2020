@@ -1,0 +1,11 @@
+<meta>
+    <script src="lib/async.lua" type="shared" cache="false"/>
+    <script src="s.lua" type="server"/>
+    <script src="c.lua" type="client" cache="false"/>
+	<script src="engines.lua" type="server"/>
+
+    <export function="loadVehicle" type="server"/>
+    <export function="saveVehicle" type="server"/>
+    <export function="addVehicleToTable" type="server"/>
+    <export function="isPlayerHavePJ" type="server"/>
+</meta>

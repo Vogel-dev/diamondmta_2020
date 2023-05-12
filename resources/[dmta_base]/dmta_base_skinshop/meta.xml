@@ -1,0 +1,12 @@
+<meta>
+    
+	<script src="s.lua" type="server"/>
+   
+	<script src="c_clothes.lua" type="client" cache="false"/>
+     
+	<script src="c.lua" type="client" cache="false"/>
+    
+
+	<file src="images/arrow.png"/>
+ 
+</meta>

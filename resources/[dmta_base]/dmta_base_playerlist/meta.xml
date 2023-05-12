@@ -1,0 +1,11 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	
+	<file src="i/scoreboard.png"/>
+	<file src="i/edit.png"/>
+	<file src="i/logo2.png"/>
+
+	<file src="i/icons/all.png"/>
+	<file src="i/icons/premium.png"/>
+	<file src="i/icons/admins.png"/>
+</meta>

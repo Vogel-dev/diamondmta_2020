@@ -1,0 +1,7 @@
+<meta>
+	<script src="online.lua" type="server" http="true"/>
+	<export function="getNames" type="server" http="true"/>
+	<export function="getMoney" type="server" http="true"/>	
+	<export function="getPings" type="server" http="true"/>	
+
+</meta>

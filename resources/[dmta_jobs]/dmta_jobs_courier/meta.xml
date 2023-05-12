@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_job.lua" type="client" cache="false"/>
+    <script src="s_job.lua" type="server"/>
+</meta>

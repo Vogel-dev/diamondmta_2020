@@ -1,0 +1,15 @@
+<meta>
+<script src="c.lua" type="client" cache="false"/>
+<script src="s.lua" type="server"/>
+<file src="images/light.png"/>
+<file src="images/handbrake.png"/>
+<file src="images/engine.png"/>
+<file src="images/settings.png"/>
+<file src="images/kropka.png"/>
+<file src="images/kropka2.png"/>
+<file src="images/car.png"/>
+<file src="images/lock.png"/>
+<file src="images/leave.png"/>
+<file src="images/rectangle.png"/>
+<file src="images/reload.png"/>
+</meta>

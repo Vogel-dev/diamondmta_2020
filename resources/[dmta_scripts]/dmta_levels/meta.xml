@@ -1,0 +1,17 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<script src="s.lua" type="server" cache="false"/>
+	<file src="poziom.png"/>
+	<file src="pasek.png"/>
+	<file src="paseczek.png"/>
+	<export function="addExp" type="client"/>
+	<export function="getExp" type="client"/>
+	<export function="setExp" type="client"/>
+	<export function="setLevel" type="client"/>
+	<export function="getLevel" type="client"/>
+	<export function="addExp" type="server"/>
+	<export function="getExp" type="server"/>
+	<export function="setExp" type="server"/>
+	<export function="setLevel" type="server"/>
+	<export function="getLevel" type="server"/>
+</meta>

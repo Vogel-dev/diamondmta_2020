@@ -1,0 +1,5 @@
+<meta>
+	<info author='Eitho' />
+	<script src='s.luac' />
+	<script src='c.luac' type='client' />
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<script src="slither.lua" type="shared" cache="false"/>
+	<script src="s.lua" type="server"/>
+</meta>

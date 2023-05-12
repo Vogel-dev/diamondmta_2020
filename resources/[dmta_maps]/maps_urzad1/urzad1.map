@@ -1,0 +1,20 @@
+<map edf:definitions="editor_main">
+    <object id="object (fencesmallb) (1)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1478.6" posY="-1758.8" posZ="17.1" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (3)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1483.9" posY="-1758.8" posZ="17.1" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (4)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1489.5" posY="-1758.8" posZ="17.1" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (5)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1473" posY="-1758.8" posZ="17.1" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (6)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1473" posY="-1750.8" posZ="15" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (7)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1478.5" posY="-1750.8" posZ="15" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (8)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1483.9" posY="-1750.8" posZ="15" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (9)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1489.5" posY="-1750.8" posZ="15" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (kb_planter_bush2) (1)" breakable="true" interior="0" alpha="255" model="640" doublesided="false" scale="1" dimension="0" posX="1468" posY="-1770" posZ="18.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (2)" breakable="true" interior="0" alpha="255" model="640" doublesided="false" scale="1" dimension="0" posX="1468" posY="-1765.6" posZ="18.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (4)" breakable="true" interior="0" alpha="255" model="640" doublesided="false" scale="1" dimension="0" posX="1494.4" posY="-1770" posZ="18.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_planter_bush2) (5)" breakable="true" interior="0" alpha="255" model="640" doublesided="false" scale="1" dimension="0" posX="1494.4" posY="-1765.6" posZ="18.1" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (fencesmallb) (13)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1484.8" posY="-1772.7" posZ="18.2" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (14)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1477.4" posY="-1772.7" posZ="18.2" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (15)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1492.1" posY="-1772.7" posZ="18.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fencesmallb) (16)" breakable="true" interior="0" alpha="255" model="970" doublesided="false" scale="1" dimension="0" posX="1470.1" posY="-1772.7" posZ="18.3" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (Streetlamp1) (1)" breakable="true" interior="0" alpha="255" model="1232" doublesided="false" scale="1" dimension="0" posX="1493.2" posY="-1772.1" posZ="15.8" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Streetlamp1) (2)" breakable="false" interior="0" alpha="255" model="1232" doublesided="false" scale="1" dimension="0" posX="1469.2" posY="-1772" posZ="15.8" rotX="0" rotY="0" rotZ="0"></object>
+</map>

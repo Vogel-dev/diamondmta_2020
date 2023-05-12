@@ -1,0 +1,15 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+    <script src="s.lua" type="server"/>
+
+    <export function="addNotification" type="client"/>
+    <export function="addNotification" type="server"/>
+
+    <file src="images/error.png"/>
+    <file src="images/success.png"/>
+    <file src="images/info.png"/>
+
+    <file src="images/pasek_1.png"/>
+    <file src="images/pasek_2.png"/>
+    <file src="images/pasek_3.png"/>
+</meta>

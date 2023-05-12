@@ -1,0 +1,30 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <file src="images/door_enter.png"/>
+    <file src="images/door_exit.png"/>
+    <file src="images/marker.png"/>
+    <file src="images/diamondbank_konto.png"/>
+    <file src="images/diamondbank_transakcje.png"/>
+    <file src="images/diamondbank_przelewy.png"/>
+    <file src="images/przebieralnia.png"/>
+    <file src="images/on.png"/>
+    <file src="images/pb-95.png"/>
+    <file src="images/lpg.png"/>
+    <file src="images/recepcja.png"/>
+    <file src="images/stand.png"/>
+    <file src="images/automat.png"/>
+    <file src="images/basket.png"/>
+    <file src="images/payfuel.png"/>
+    <file src="images/default.png"/>
+    <file src="images/salon.png"/>
+    <file src="images/car.png"/>
+    <file src="images/mechanic.png"/>
+    <file src="images/target.png"/>
+    <file src="images/job.png"/>
+    <file src="images/fly.png"/>
+    <file src="images/paint.png"/>
+    <file src="images/weed.png"/>
+    <file src="images/gun.png"/>
+    <file src="images/faction.png"/>
+</meta>

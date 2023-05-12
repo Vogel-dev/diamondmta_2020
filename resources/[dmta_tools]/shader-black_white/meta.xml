@@ -1,0 +1,11 @@
+<meta>
+	<!-- client-side -->
+	<script src="c.lua" type="client" cache="false" />
+	
+	<!-- server-side -->
+	<script src="s.lua" type="server" />
+	
+	<!-- files -->
+	<file src="fx/blackwhite.fx" type="client" />
+	<oop>true</oop>
+</meta>

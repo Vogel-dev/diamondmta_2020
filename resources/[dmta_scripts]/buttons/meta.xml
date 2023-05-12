@@ -1,0 +1,29 @@
+<meta>
+	<info author="Hype"/>
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="circle.png" cache="true"/>
+	<file src='1.ttf' cache='true'/>
+	<file src='2.ttf' cache='true'/>
+	<file src='3.ttf' cache='true'/>
+	<file src='4.ttf' cache='true'/>
+	<file src='5.ttf' cache='true'/>
+	<file src='6.ttf' cache='true'/>
+	<file src='7.ttf' cache='true'/>
+	<file src='8.ttf' cache='true'/>
+	<file src='9.ttf' cache='true'/>
+	<file src='10.ttf' cache='true'/>
+	<file src='11.ttf' cache='true'/>
+	<file src='12.ttf' cache='true'/>
+	<file src='13.ttf' cache='true'/>
+	<file src='14.ttf' cache='true'/>
+	<file src='15.ttf' cache='true'/>
+	<file src='16.ttf' cache='true'/>
+	<file src='17.ttf' cache='true'/>
+	<file src='18.ttf' cache='true'/>
+	<file src='19.ttf' cache='true'/>
+	<file src='20.ttf' cache='true'/>
+	<file src='21.ttf' cache='true'/>
+	<export function="createButton" type="client"/>
+	<export function="destroyButton" type="client"/>
+	<export function="getFont" type="client"/>
+</meta>

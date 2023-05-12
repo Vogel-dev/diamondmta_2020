@@ -1,0 +1,14 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <export function="getAchievementsList" type="client"/>
+
+    <file src="images/car.png"/>
+    <file src="images/house.png"/>
+    <file src="images/money.png"/>
+    <file src="images/puszka.png"/>
+    <file src="images/fist.png"/>
+    <file src="images/ciuch.png"/>
+    <file src="images/business.png"/>
+    <file src="images/drugs.png"/>
+</meta>

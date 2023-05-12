@@ -1,0 +1,14 @@
+<meta>
+    <script src="c.lua" type="client" cache="false"/>
+
+    <export function="dxLibary_destroyGridlist" type="client"/>
+    <export function="dxLibary_gridlistGetSelectedItemText" type="client"/>
+    <export function="dxLibary_createGridlist" type="client"/>
+    <export function="dxLibary_addGridlistItem" type="client"/>
+    <export function="dxLibary_destroyGridlistItem" type="client"/>
+    <export function="dxLibary_getGridListRows" type="client"/>
+    <export function="dxLibary_checkSelectedItem" type="client"/>
+    <export function="dxLibary_gridListSetAlpha" type="client"/>
+
+    <file src="images/scrollCircle.png"/>
+</meta>

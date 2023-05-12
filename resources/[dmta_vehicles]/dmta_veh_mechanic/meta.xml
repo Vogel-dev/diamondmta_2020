@@ -1,0 +1,4 @@
+<meta>
+    <script src="c_mechanic.lua" type="client" cache="false"/>
+    <script src="s_mechanic.lua" type="server"/>
+</meta>

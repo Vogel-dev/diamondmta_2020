@@ -1,0 +1,7 @@
+﻿<meta>
+	<!-- AUTHOR SPLIT -->
+	<!-- SERVER SIDE -->
+	<script src="SPRAY.lua" type="server" />
+	<!-- CLIENT SIDE -->
+	<script src="SPRAY_C.lua" type="client" />
+</meta>

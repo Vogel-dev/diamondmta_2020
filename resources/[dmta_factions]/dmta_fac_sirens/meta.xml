@@ -1,0 +1,16 @@
+<meta>
+	<file src="syrena.ogg" />
+	<file src="syrenaSAMA.ogg" />
+	<file src="syrena2.ogg" />
+	<file src="pd-syrena.ogg" />
+	<file src="transformers.ogg" />
+	<file src="pd-syrena2.ogg" />
+	<file src="fd-syrena.ogg" />
+	<file src="fd-syrena2.ogg" />
+	<file src="fd-syrena3.ogg" />
+	<file src="fd-syrena4.ogg" />
+	<file src="roy.ogg" />
+	<file src="march.ogg" />
+	<script src="dzwieki.lua" type="server" />
+	<script src="dzwieki_c.lua" type="client" />
+</meta>
